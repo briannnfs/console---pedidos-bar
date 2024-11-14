@@ -1,0 +1,13 @@
+Realizar el modo admin:
+Crear una contraseña a lo cual a determinada cantidad de intentos se cierre el programa. 
+Crear los archivos de los productos con sus respectivas propiedades.
+Crear los archivos de combos con sus respectivas propiedades.
+Tener la posibilidad de realizar ABML.
+
+Realizar el modo compra:
+Tener un listado de X mesas a los cuales cargar pedidos, que estarán relacionadas a un vector con dicho índice. Siendo "1" ocupada y "0" libre.
+Tener la capacidad de agregar cosas a los pedidos ya cargados.
+Por contraste, poder eliminarlos también.
+Antes de cobrar, hacer un listado de dicho pedido para corroborar que todo es correcto.
+Posterior, dependiendo del medio de pago (efectivo, crédito/débito, Mercado Pago, transferencia) ponerle un recargo o descuento al importe antes de cerrar dicho pedido.
+Una vez finalizado, dicha mesa debe volver al estado "0" y borrar todo su pedido anterior.

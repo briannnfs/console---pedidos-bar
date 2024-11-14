@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1724361028 source:c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\main.cpp
+	<iostream>
+	"modoAdministrador.h"
+
+1725569384 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\modoadministrador.h
+	<iostream>
+	"manejoArchivos.h"
+
+1724619989 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\menucomidas.h
+	<iostream>
+	"entradas.h"
+
+1724620170 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\entradas.h
+	<iostream>
+	<cstring>
+	"hamburguesasCarne.h"
+
+1724366618 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\hamburguesascarne.h
+	<iostream>
+	<cstring>
+
+1725568063 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\productos.h
+	<iostream>
+	<cstring>
+
+1725569320 c:\users\briannfs\desktop\utn\proyecto simulación sistema\simulacion_sistema_pedidos\manejoarchivos.h
+	<iostream>
+	<cstring>
+	"productos.h"
+
